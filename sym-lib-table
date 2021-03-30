@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name lowpower-rescue)(type Legacy)(uri ${KIPRJMOD}/lowpower-rescue.lib)(options "")(descr ""))
+  (lib (name STM32G071GBU)(type Legacy)(uri /home/timm/source/kicad/STM32G071GBU.lib)(options "")(descr ""))
+)
